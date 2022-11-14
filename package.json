@@ -47,7 +47,7 @@
     "commands": [
       {
         "command": "code-runner.run",
-        "title": "Run Code",
+        "title": "Quick Run",
         "icon": "$(play)"
       },
       {
